@@ -1,0 +1,65 @@
+/*
+Theme Name: Suffix
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+.column {
+    float: right;
+}
+
+.top-bar .twp-sidr {
+    float: right;
+}
+
+.top-bar .news {
+    float: right;
+    clear: left;
+}
+
+.top-bar .twp-date {
+    float: left;
+}
+
+.top-bar .news > span {
+    right: 0;
+}
+
+.top-bar .news .marquee {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.main-navigation .menu ul li {
+    float: right;
+}
+
+.main-navigation .nav-right {
+    float: left;
+}
+
+@media only screen and (min-width: 992px) {
+    .main-navigation .menu > ul > li:first-child > a {
+        padding-right: 0;
+        padding-left: 10px;
+    }
+}
+
+.widget.widget_categories ul li,
+.widget.widget_pages ul li {
+    padding-right: 1.618em;
+    padding-left: 0;
+}
+
+.widget.widget_categories ul li:before,
+.widget.widget_pages ul li:before {
+    margin-left: 0.5407911001em;
+    float: right;
+    margin-right: -1.618em;
+}
+

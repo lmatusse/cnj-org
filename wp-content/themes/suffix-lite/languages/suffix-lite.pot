@@ -1,0 +1,1323 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Suffix Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-17 10:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3"
+
+#: 404.php:17
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:50 comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:51 comments.php:72
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:116
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: footer.php:165
+msgid "Close"
+msgstr ""
+
+#: functions.php:67 header.php:168
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:68
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:69
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:151
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:31
+msgid "Loading..."
+msgstr ""
+
+#: header.php:38
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:54
+msgid "Toggle menu"
+msgstr ""
+
+#: header.php:86
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: inc/common-functions-hooks.php:212
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/common-functions-hooks.php:263
+msgid "Social Share With Floating Bar"
+msgstr ""
+
+#: inc/template-tags.php:27
+#, php-format
+msgid "Posted on: %s"
+msgstr ""
+
+#: inc/template-tags.php:32
+#, php-format
+msgid "By : %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:48
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:50
+#, php-format
+msgid "Posted in: %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:54
+msgid ","
+msgstr ""
+
+#: inc/template-tags.php:56 inc/template-tags.php:90
+#, php-format
+msgid "Tagged : %1$s"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid "% Comments"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:69
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:88
+msgid " #"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:107 inc/template-tags.php:124
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:122
+msgid " / "
+msgstr ""
+
+#: inc/widget-init.php:11
+msgid "Off-canvas Area"
+msgstr ""
+
+#: inc/widget-init.php:13 inc/widget-init.php:23 inc/widget-init.php:33
+#: inc/widget-init.php:43 inc/widget-init.php:53 inc/widget-init.php:63
+#: inc/widget-init.php:74
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widget-init.php:21
+msgid "Header Advertisement"
+msgstr ""
+
+#: inc/widget-init.php:31
+msgid "Home Page Sidebar One"
+msgstr ""
+
+#: inc/widget-init.php:41
+msgid "Home Page Sidebar Two"
+msgstr ""
+
+#: inc/widget-init.php:51
+msgid "Sidebar column Three"
+msgstr ""
+
+#: inc/widget-init.php:61
+msgid "Sitewide Sidebar"
+msgstr ""
+
+#: inc/widget-init.php:72
+msgid "Footer Full-width Area"
+msgstr ""
+
+#: inc/widget-init.php:84
+msgid "Footer column One"
+msgstr ""
+
+#: inc/widget-init.php:86 inc/widget-init.php:96 inc/widget-init.php:107
+#: inc/widget-init.php:118
+msgid "Displays items on footer section."
+msgstr ""
+
+#: inc/widget-init.php:94
+msgid "Footer column Two"
+msgstr ""
+
+#: inc/widget-init.php:105
+msgid "Footer column Three"
+msgstr ""
+
+#: inc/widget-init.php:116
+msgid "Footer column Four"
+msgstr ""
+
+#: template-parts/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:39 template-parts/content-search.php:57
+#: template-parts/content-single.php:43 template-parts/content.php:58
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content-search.php:53 template-parts/content.php:54
+#, php-format
+msgid "%s <i class=\"ion-ios-arrow-right read-more-right\"></i>"
+msgstr ""
+
+#: inc/about/about.php:20
+#, php-format
+msgid ""
+" First off, We’d like to extend a warm welcome and thank you for choosing "
+"%1$s. %1$s is now installed and ready to use. We want to make sure you have "
+"the best experience using the theme and that is why we gathered here all the "
+"necessary information for you. Again, Thanks for using our theme!"
+msgstr ""
+
+#: inc/about/about.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: inc/about/about.php:25
+msgid "Support"
+msgstr ""
+
+#: inc/about/about.php:26
+msgid "Useful Plugins"
+msgstr ""
+
+#: inc/about/about.php:32
+msgid "Theme Details"
+msgstr ""
+
+#: inc/about/about.php:36 inc/about/about.php:85
+msgid "View Demo"
+msgstr ""
+
+#: inc/about/about.php:40 inc/about/about.php:52 inc/about/about.php:107
+msgid "View Documentation"
+msgstr ""
+
+#: inc/about/about.php:49 inc/about/about.php:104
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/about/about.php:51 inc/about/about.php:106
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+
+#: inc/about/about.php:58 inc/about/about.php:61
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/about/about.php:60
+msgid ""
+"To achieve custom home page other than blog listing, you need to create and "
+"set static front page."
+msgstr ""
+
+#: inc/about/about.php:66 inc/customizer/theme-option.php:14
+msgid "Theme Options"
+msgstr ""
+
+#: inc/about/about.php:68
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+
+#: inc/about/about.php:69
+msgid "Customize"
+msgstr ""
+
+#: inc/about/about.php:74
+msgid "Widget Ready"
+msgstr ""
+
+#: inc/about/about.php:76
+msgid ""
+"Suffix is widget based Theme. Suffix has 7 predesigned custome additional "
+"layout."
+msgstr ""
+
+#: inc/about/about.php:77
+msgid "View Widgets"
+msgstr ""
+
+#: inc/about/about.php:82
+msgid "Theme Preview"
+msgstr ""
+
+#: inc/about/about.php:84
+msgid ""
+"You can check out the theme demos for reference to find out what you can "
+"achieve using the theme and how it can be customized."
+msgstr ""
+
+#: inc/about/about.php:95 inc/about/about.php:98
+msgid "Contact Support"
+msgstr ""
+
+#: inc/about/about.php:97
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: inc/about/about.php:113
+msgid "Child Theme"
+msgstr ""
+
+#: inc/about/about.php:115
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself."
+msgstr ""
+
+#: inc/about/about.php:116
+msgid "Learn More"
+msgstr ""
+
+#: inc/about/about.php:125
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+#: inc/about/about.php:130
+msgid "Please make sure plugin is installed and activated."
+msgstr ""
+
+#: inc/about/about.php:130
+msgid "Recommendedt"
+msgstr ""
+
+#: inc/about/about.php:135
+msgid "You can upgrade to pro version of the theme for more exciting features."
+msgstr ""
+
+#: inc/about/about.php:136
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/about/class.about.php:121 inc/about/class.about.php:122
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: inc/about/class.about.php:126
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme info page."
+msgstr ""
+
+#: inc/about/class.about.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/about/class.about.php:126
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/about/class.about.php:232
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+#: inc/about/class.about.php:341 inc/about/class.about.php:382
+msgid "Manage Plugins"
+msgstr ""
+
+#: inc/customizer/breaking-news.php:13
+msgid "Breaking News Section"
+msgstr ""
+
+#: inc/customizer/breaking-news.php:31
+msgid "Enable Breaking News"
+msgstr ""
+
+#: inc/customizer/breaking-news.php:48
+msgid "Breaking News Title"
+msgstr ""
+
+#: inc/customizer/breaking-news.php:49
+msgid ""
+"Use html tag <em> to bring different color on breaking news eg, <em> News "
+"</em> "
+msgstr ""
+
+#: inc/customizer/breaking-news.php:66
+msgid "Enable Meta Data on Breaking News"
+msgstr ""
+
+#: inc/customizer/breaking-news.php:83
+msgid "Category for Breaking News"
+msgstr ""
+
+#: inc/customizer/breaking-news.php:84
+msgid "Select category to be shown on breaking news "
+msgstr ""
+
+#: inc/customizer/customizer.php:45
+msgid "Suffix"
+msgstr ""
+
+#: inc/customizer/customizer.php:46
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/customizer/featured-post.php:13
+msgid "Featured News Section"
+msgstr ""
+
+#: inc/customizer/featured-post.php:31
+msgid "Enable Featured News"
+msgstr ""
+
+#: inc/customizer/featured-post.php:49
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/featured-post.php:67
+msgid "Category for Featured News"
+msgstr ""
+
+#: inc/customizer/featured-post.php:68
+msgid "Select category to be shown below slider "
+msgstr ""
+
+#: inc/customizer/featured-post.php:84
+msgid "Image Size"
+msgstr ""
+
+#: inc/customizer/featured-post.php:87 inc/widgets/widgets.php:84
+#: inc/widgets/widgets.php:108 inc/widgets/widgets.php:359
+#: inc/widgets/widgets.php:383 inc/widgets/widgets.php:710
+#: inc/widgets/widgets.php:895 inc/widgets/widgets.php:1143
+#: inc/widgets/widgets.php:1283 inc/widgets/widgets.php:1626
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer/featured-post.php:88 inc/widgets/widgets.php:86
+#: inc/widgets/widgets.php:110 inc/widgets/widgets.php:361
+#: inc/widgets/widgets.php:385 inc/widgets/widgets.php:712
+#: inc/widgets/widgets.php:897 inc/widgets/widgets.php:1145
+#: inc/widgets/widgets.php:1285 inc/widgets/widgets.php:1628
+msgid "Large"
+msgstr ""
+
+#: inc/customizer/featured-post.php:89 inc/widgets/widgets.php:88
+#: inc/widgets/widgets.php:112 inc/widgets/widgets.php:363
+#: inc/widgets/widgets.php:387 inc/widgets/widgets.php:714
+#: inc/widgets/widgets.php:899 inc/widgets/widgets.php:1147
+#: inc/widgets/widgets.php:1287 inc/widgets/widgets.php:1630
+msgid "Image 400 x 260"
+msgstr ""
+
+#: inc/customizer/featured-post.php:90 inc/widgets/widgets.php:113
+#: inc/widgets/widgets.php:364 inc/widgets/widgets.php:388
+#: inc/widgets/widgets.php:715 inc/widgets/widgets.php:900
+#: inc/widgets/widgets.php:1148 inc/widgets/widgets.php:1288
+#: inc/widgets/widgets.php:1631
+msgid "Image 720 x 480"
+msgstr ""
+
+#: inc/customizer/featured-post.php:107
+msgid "Enable Post Meta on Featured News"
+msgstr ""
+
+#: inc/customizer/featured-post.php:123 inc/customizer/slider.php:192
+msgid "Section Article Title Color"
+msgstr ""
+
+#: inc/customizer/option-panel.php:22
+msgid "Footer Secondary Logo"
+msgstr ""
+
+#: inc/customizer/option-panel.php:32
+msgid "Home/Front Page Settings"
+msgstr ""
+
+#: inc/customizer/slider.php:13
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer/slider.php:31
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/slider.php:47
+msgid "Slider Structure"
+msgstr ""
+
+#: inc/customizer/slider.php:50
+msgid "Single Slider"
+msgstr ""
+
+#: inc/customizer/slider.php:51
+msgid "Carousel Slider"
+msgstr ""
+
+#: inc/customizer/slider.php:52
+msgid "Slider with content left"
+msgstr ""
+
+#: inc/customizer/slider.php:53
+msgid "Slider with content right"
+msgstr ""
+
+#: inc/customizer/slider.php:70
+msgid "Slider Layout"
+msgstr ""
+
+#: inc/customizer/slider.php:73
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/slider.php:74
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/slider.php:91
+msgid "Select no of Slider"
+msgstr ""
+
+#: inc/customizer/slider.php:92
+msgid "Number of Slider to be shown the allowed range is 1 - 6"
+msgstr ""
+
+#: inc/customizer/slider.php:110
+msgid "Enable Slider Content"
+msgstr ""
+
+#: inc/customizer/slider.php:125
+msgid "Select no words of slider"
+msgstr ""
+
+#: inc/customizer/slider.php:142
+msgid "Enable Slider Post Meta"
+msgstr ""
+
+#: inc/customizer/slider.php:159
+msgid "Category for slider"
+msgstr ""
+
+#: inc/customizer/slider.php:160
+msgid "Select category to be shown on tab "
+msgstr ""
+
+#: inc/customizer/slider.php:177
+msgid "Section Article Background Color"
+msgstr ""
+
+#: inc/customizer/slider.php:208
+msgid "Enable Pagination Dots"
+msgstr ""
+
+#: inc/customizer/slider.php:224
+msgid "Enable Arrow key navigation"
+msgstr ""
+
+#: inc/customizer/theme-option.php:23
+msgid "Layout Management"
+msgstr ""
+
+#: inc/customizer/theme-option.php:40
+msgid "Enable Static Page Content"
+msgstr ""
+
+#: inc/customizer/theme-option.php:51
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:68
+msgid "Move Header to Center"
+msgstr ""
+
+#: inc/customizer/theme-option.php:84
+msgid "Move Menu to Center"
+msgstr ""
+
+#: inc/customizer/theme-option.php:102
+msgid "Enable Banner Overlay"
+msgstr ""
+
+#: inc/customizer/theme-option.php:120
+msgid "Global Layout"
+msgstr ""
+
+#: inc/customizer/theme-option.php:123 inc/hooks/layout-meta/layout-meta.php:63
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-option.php:124 inc/hooks/layout-meta/layout-meta.php:66
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/customizer/theme-option.php:125 inc/hooks/layout-meta/layout-meta.php:69
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-option.php:143
+msgid "Set Global Archive Length"
+msgstr ""
+
+#: inc/customizer/theme-option.php:162
+msgid "Read More Button Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:178
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/theme-option.php:181
+msgid "Excerpt Only"
+msgstr ""
+
+#: inc/customizer/theme-option.php:182
+msgid "Full Post"
+msgstr ""
+
+#: inc/customizer/theme-option.php:198
+msgid "Enable 'Home Page Sidebar Two' Widget on Archive"
+msgstr ""
+
+#: inc/customizer/theme-option.php:214
+msgid "Archive Image Alocation"
+msgstr ""
+
+#: inc/customizer/theme-option.php:217 inc/customizer/theme-option.php:255
+#: inc/widgets/widgets.php:87 inc/widgets/widgets.php:111
+#: inc/widgets/widgets.php:362 inc/widgets/widgets.php:386
+#: inc/widgets/widgets.php:713 inc/widgets/widgets.php:898
+#: inc/widgets/widgets.php:1146 inc/widgets/widgets.php:1286
+#: inc/widgets/widgets.php:1629 inc/hooks/layout-meta/layout-meta.php:81
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/theme-option.php:218 inc/customizer/theme-option.php:256
+#: inc/hooks/layout-meta/layout-meta.php:87
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/theme-option.php:219 inc/customizer/theme-option.php:257
+#: inc/hooks/layout-meta/layout-meta.php:84
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/theme-option.php:220 inc/customizer/theme-option.php:258
+msgid "No image"
+msgstr ""
+
+#: inc/customizer/theme-option.php:236
+msgid "Enable 'Home Page Sidebar Two' Widget on Single"
+msgstr ""
+
+#: inc/customizer/theme-option.php:252
+msgid "Single Post/Page Image Alocation"
+msgstr ""
+
+#: inc/customizer/theme-option.php:275
+msgid "Enable Post Author Info in Single Post"
+msgstr ""
+
+#: inc/customizer/theme-option.php:292
+msgid "Enable Related Post in Single Post"
+msgstr ""
+
+#: inc/customizer/theme-option.php:302
+msgid "Pagination Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:319
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/theme-option.php:323
+msgid "Default (Older / Newer Post)"
+msgstr ""
+
+#: inc/customizer/theme-option.php:324
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer/theme-option.php:335
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:353
+msgid "Number Of Footer Widget"
+msgstr ""
+
+#: inc/customizer/theme-option.php:358
+msgid "Disable footer sidebar area"
+msgstr ""
+
+#: inc/customizer/theme-option.php:359
+msgid "1"
+msgstr ""
+
+#: inc/customizer/theme-option.php:360
+msgid "2"
+msgstr ""
+
+#: inc/customizer/theme-option.php:361
+msgid "3"
+msgstr ""
+
+#: inc/customizer/theme-option.php:362
+msgid "4"
+msgstr ""
+
+#: inc/customizer/theme-option.php:377
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:388
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:405
+msgid "Breadcrumb Type"
+msgstr ""
+
+#: inc/customizer/theme-option.php:406
+#, php-format
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin"
+msgstr ""
+
+#: inc/customizer/theme-option.php:410
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer/theme-option.php:411
+msgid "Simple"
+msgstr ""
+
+#: inc/customizer/theme-option.php:412
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer/theme-option.php:421
+msgid "Preloader Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:438
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/top-bar.php:13
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/customizer/top-bar.php:31
+msgid "Enable Top Bar"
+msgstr ""
+
+#: inc/customizer/top-bar.php:48
+msgid "Enable Off Canvas"
+msgstr ""
+
+#: inc/customizer/top-bar.php:65
+msgid "Ticker Title"
+msgstr ""
+
+#: inc/customizer/top-bar.php:82
+msgid "Select no of Ticker News"
+msgstr ""
+
+#: inc/customizer/top-bar.php:83
+msgid "Number of ticker news to be shown the allowed range is 1 - 15"
+msgstr ""
+
+#: inc/customizer/top-bar.php:102
+msgid "Category for Ticker News"
+msgstr ""
+
+#: inc/customizer/top-bar.php:103
+msgid "Select category to be shown on ticker news "
+msgstr ""
+
+#: inc/customizer/top-bar.php:121
+msgid "Enable Date on Top Bar"
+msgstr ""
+
+#: inc/hooks/breaking-news.php:60 inc/hooks/slider.php:82
+#: inc/widgets/widgets.php:205 inc/widgets/widgets.php:254
+#: inc/widgets/widgets.php:483 inc/widgets/widgets.php:521
+#: inc/widgets/widgets.php:589 inc/widgets/widgets.php:624
+#: inc/widgets/widgets.php:815 inc/widgets/widgets.php:984
+#: inc/widgets/widgets.php:1215 inc/widgets/widgets.php:1436
+#: inc/widgets/widgets.php:1709 inc/widgets/widgets.php:1747
+msgid "Posted on: "
+msgstr ""
+
+#: inc/hooks/header-inner-page.php:48
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/hooks/header-inner-page.php:53
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Choose Image"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:289
+msgctxt "Remove"
+msgid "X"
+msgstr ""
+
+#: inc/widgets/widgets.php:59 inc/widgets/widgets.php:674
+msgid "Displays posts from selected category."
+msgstr ""
+
+#: inc/widgets/widgets.php:64 inc/widgets/widgets.php:679
+#: inc/widgets/widgets.php:870 inc/widgets/widgets.php:1037
+#: inc/widgets/widgets.php:1526 inc/widgets/widgets.php:1791
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widgets.php:69 inc/widgets/widgets.php:684
+#: inc/widgets/widgets.php:875 inc/widgets/widgets.php:1042
+#: inc/widgets/widgets.php:1128 inc/widgets/widgets.php:1603
+msgid "Select Category:"
+msgstr ""
+
+#: inc/widgets/widgets.php:71 inc/widgets/widgets.php:327
+#: inc/widgets/widgets.php:338 inc/widgets/widgets.php:686
+#: inc/widgets/widgets.php:877 inc/widgets/widgets.php:1044
+#: inc/widgets/widgets.php:1130 inc/widgets/widgets.php:1605
+msgid "All Categories"
+msgstr ""
+
+#: inc/widgets/widgets.php:74 inc/widgets/widgets.php:341
+#: inc/widgets/widgets.php:700 inc/widgets/widgets.php:880
+#: inc/widgets/widgets.php:1133 inc/widgets/widgets.php:1273
+#: inc/widgets/widgets.php:1641
+msgid "Enable Post Meta"
+msgstr ""
+
+#: inc/widgets/widgets.php:79 inc/widgets/widgets.php:354
+msgid "Select Image Size Featured Post:"
+msgstr ""
+
+#: inc/widgets/widgets.php:83 inc/widgets/widgets.php:107
+#: inc/widgets/widgets.php:358 inc/widgets/widgets.php:382
+#: inc/widgets/widgets.php:709 inc/widgets/widgets.php:894
+#: inc/widgets/widgets.php:1142 inc/widgets/widgets.php:1282
+#: inc/widgets/widgets.php:1625
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/widgets/widgets.php:85 inc/widgets/widgets.php:109
+#: inc/widgets/widgets.php:360 inc/widgets/widgets.php:384
+#: inc/widgets/widgets.php:711 inc/widgets/widgets.php:896
+#: inc/widgets/widgets.php:1144 inc/widgets/widgets.php:1284
+#: inc/widgets/widgets.php:1627
+msgid "Medium Large"
+msgstr ""
+
+#: inc/widgets/widgets.php:89
+msgid "Image 900 x 600"
+msgstr ""
+
+#: inc/widgets/widgets.php:94 inc/widgets/widgets.php:369
+msgid "Excerpt Length For Featured Post:"
+msgstr ""
+
+#: inc/widgets/widgets.php:95 inc/widgets/widgets.php:119
+#: inc/widgets/widgets.php:370 inc/widgets/widgets.php:394
+#: inc/widgets/widgets.php:721 inc/widgets/widgets.php:906
+#: inc/widgets/widgets.php:1294
+msgid "Number of words"
+msgstr ""
+
+#: inc/widgets/widgets.php:103 inc/widgets/widgets.php:378
+msgid "Select Image Size Other Post:"
+msgstr ""
+
+#: inc/widgets/widgets.php:118 inc/widgets/widgets.php:393
+msgid "Excerpt Length For List Post:"
+msgstr ""
+
+#: inc/widgets/widgets.php:127 inc/widgets/widgets.php:346
+#: inc/widgets/widgets.php:729 inc/widgets/widgets.php:913
+#: inc/widgets/widgets.php:1047 inc/widgets/widgets.php:1153
+#: inc/widgets/widgets.php:1613
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/widgets/widgets.php:135 inc/widgets/widgets.php:402
+#: inc/widgets/widgets.php:737
+msgid "View Detail Text:"
+msgstr ""
+
+#: inc/widgets/widgets.php:140
+msgid "SFX: Single Category Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:314
+msgid "Displays post form selected category on List Format."
+msgstr ""
+
+#: inc/widgets/widgets.php:319
+msgid "Title For Category 1:"
+msgstr ""
+
+#: inc/widgets/widgets.php:320
+msgid "Title 1"
+msgstr ""
+
+#: inc/widgets/widgets.php:325
+msgid "Select Category 1:"
+msgstr ""
+
+#: inc/widgets/widgets.php:330
+msgid "Title For Category 2:"
+msgstr ""
+
+#: inc/widgets/widgets.php:331
+msgid "Title 2"
+msgstr ""
+
+#: inc/widgets/widgets.php:336
+msgid "Select Category 2:"
+msgstr ""
+
+#: inc/widgets/widgets.php:407
+msgid "SFX: Double Category Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:689
+msgid "Select Layout:"
+msgstr ""
+
+#: inc/widgets/widgets.php:693
+msgid "Image Alternate"
+msgstr ""
+
+#: inc/widgets/widgets.php:694
+msgid "Image Left"
+msgstr ""
+
+#: inc/widgets/widgets.php:695
+msgid "Image Right"
+msgstr ""
+
+#: inc/widgets/widgets.php:705 inc/widgets/widgets.php:890
+#: inc/widgets/widgets.php:1138
+msgid "Select Image Size:"
+msgstr ""
+
+#: inc/widgets/widgets.php:720 inc/widgets/widgets.php:905
+#: inc/widgets/widgets.php:1293
+msgid "Excerpt Length:"
+msgstr ""
+
+#: inc/widgets/widgets.php:742
+msgid "SFX: List Category Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:865
+msgid ""
+"Displays post form selected category specific for popular post in sidebars."
+msgstr ""
+
+#: inc/widgets/widgets.php:885 inc/widgets/widgets.php:1268
+msgid "Enable Description:"
+msgstr ""
+
+#: inc/widgets/widgets.php:921
+msgid "SFX: Recent Post Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:1032
+msgid "Displays post form selected category listing posts title."
+msgstr ""
+
+#: inc/widgets/widgets.php:1055
+msgid "SFX: List Post Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:1123
+msgid "Displays posts from selected category in carousel."
+msgstr ""
+
+#: inc/widgets/widgets.php:1161
+msgid "SFX: Carousel Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:1252
+msgid "Tabbed widget."
+msgstr ""
+
+#: inc/widgets/widgets.php:1256 inc/widgets/widgets.php:1345
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/widgets.php:1260 inc/widgets/widgets.php:1305
+msgid "No. of Posts:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1278 inc/widgets/widgets.php:1621
+msgid "Select Image Size"
+msgstr ""
+
+#: inc/widgets/widgets.php:1301 inc/widgets/widgets.php:1348
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/widgets.php:1313 inc/widgets/widgets.php:1351
+msgid "Comments"
+msgstr ""
+
+#: inc/widgets/widgets.php:1317
+msgid "No. of Comments:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1325
+msgid "SFX: Tab Widgets"
+msgstr ""
+
+#: inc/widgets/widgets.php:1493
+msgctxt "Tabbed Widget"
+msgid "on"
+msgstr ""
+
+#: inc/widgets/widgets.php:1521
+msgid "Displays social menu if you have set it(social menu)"
+msgstr ""
+
+#: inc/widgets/widgets.php:1527
+msgid "Note: Displays social menu if you have set it(social menu)"
+msgstr ""
+
+#: inc/widgets/widgets.php:1532 inc/widgets/widgets.php:1801
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1537
+msgid "SFX: Social Menu Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:1574
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu "
+"on Menu Settings."
+msgstr ""
+
+#: inc/widgets/widgets.php:1598
+msgid "Displays posts from selected category in slider"
+msgstr ""
+
+#: inc/widgets/widgets.php:1608
+msgid "Enable Content on Main Slider"
+msgstr ""
+
+#: inc/widgets/widgets.php:1636
+msgid "Enable Slider Nav"
+msgstr ""
+
+#: inc/widgets/widgets.php:1646
+msgid "Enable Content on Main Slider Nav"
+msgstr ""
+
+#: inc/widgets/widgets.php:1651
+msgid "SFX: Slider Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:1786
+msgid "Displays authors details in post."
+msgstr ""
+
+#: inc/widgets/widgets.php:1796
+msgid "Name:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1806
+msgid "Author Image:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1810
+msgid "Facebook URL:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1815
+msgid "Twitter URL:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1820
+msgid "Googleplus URL:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1825
+msgid "Instagram URL:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1831
+msgid "SFX: Author Widget"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:310
+msgid "Browse:"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:311
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:312
+msgid "Home"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:313
+msgid "404 Not Found"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:314
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:316
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#. %s is the page number.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:318
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. %s is the page number.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:320
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:322
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:324
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:784
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:801
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:818
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:834
+#: assets/libraries/breadcrumbs/breadcrumbs.php:863
+#: assets/libraries/breadcrumbs/breadcrumbs.php:890
+#: assets/libraries/breadcrumbs/breadcrumbs.php:917
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1257
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:835
+#: assets/libraries/breadcrumbs/breadcrumbs.php:891
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1261
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:836
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1265
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:864
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer/core/default.php:40
+msgid "Trending Now"
+msgstr ""
+
+#: inc/customizer/core/default.php:46
+msgid "Breaking News"
+msgstr ""
+
+#: inc/customizer/core/default.php:56
+msgid "Featured Now"
+msgstr ""
+
+#: inc/customizer/core/default.php:73
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/customizer/core/default.php:75
+msgid "Copyright All rights reserved"
+msgstr ""
+
+#: inc/hooks/layout-meta/layout-meta.php:22
+msgid "Single Page/Post Settings"
+msgstr ""
+
+#: inc/hooks/layout-meta/layout-meta.php:54
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/hooks/layout-meta/layout-meta.php:59
+msgid "Single Page/Post Layout"
+msgstr ""
+
+#: inc/hooks/layout-meta/layout-meta.php:77
+msgid "Single Page/Post Image Layout"
+msgstr ""
+
+#: inc/hooks/layout-meta/layout-meta.php:90
+msgid "No Image"
+msgstr ""
+
+#. Name of the theme
+msgid "Suffix Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Unique, Versatile, Elegant and Flexible \"Suffix Lite\" is a feature-rich "
+"WordPress theme, suitable for personal, blog and magazine website about "
+"fashion, travel journey, tour, lifestyle, food blogs and others. Built with "
+"Awesome Features, Suffix Lite is Engineered for the pros and Crafted for the "
+"up-and-comers. We tried to dig further in terms of responsiveness and make "
+"it not only working in different devices but also looking like it has been "
+"specifically designed for those devices."
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeinwp.com/theme/suffix-lite"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeInWP"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themeinwp.com/"
+msgstr ""

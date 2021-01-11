@@ -1,0 +1,720 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Yala Mag\n"
+"POT-Creation-Date: 2020-05-14 09:26+0545\n"
+"PO-Revision-Date: 2020-05-14 09:26+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:35
+msgid "&copy; All Right Reserved "
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:43
+#, php-format
+msgid "Theme: %2$s by  %1$s"
+msgstr ""
+
+#: functions.php:60
+msgid "Primary"
+msgstr ""
+
+#: functions.php:61
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:123
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:125 functions.php:135 functions.php:145
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:133
+msgid "Frontpage Layouts Area"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer widget Area"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:52
+msgid "Current Date:"
+msgstr ""
+
+#: header.php:79
+msgid "Search"
+msgstr ""
+
+#: header.php:135 inc/wp-bootstrap-navwalker.php:212
+msgid "Add a menu"
+msgstr ""
+
+#. translators: %s: search query.
+#: header.php:174
+#, php-format
+msgid "Search Result For: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:234
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumbs.php:235
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:236
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:237
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:238
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs.php:240
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/breadcrumbs.php:242
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:244
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:246
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:698
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:715
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:732
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumbs.php:748 inc/breadcrumbs.php:777 inc/breadcrumbs.php:804
+#: inc/breadcrumbs.php:831 inc/breadcrumbs.php:1172
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumbs.php:749 inc/breadcrumbs.php:805 inc/breadcrumbs.php:1176
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumbs.php:750 inc/breadcrumbs.php:1180
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumbs.php:778
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Header Section"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Managed the content display at top header section."
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Enable/Disable top header"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Enable/Disable Top Header Date"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Enable/Disable Top Menu"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Enable/Disable Top Header search Form"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Enable/Disable Main Menu Social Links"
+msgstr ""
+
+#: inc/customizer.php:219 inc/customizer.php:234 inc/customizer.php:249
+#: inc/customizer.php:264 inc/customizer.php:278
+msgid "#"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Slider section"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Managed the content display at Slider section."
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Enable/Disable Main news slider Section"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Select Category for Slider"
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Number of Slider to Show in Frontpage"
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "input 3,4,5,6,7,8,9,10"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:407
+msgid "Enable/Disable for Preloader"
+msgstr ""
+
+#: inc/customizer.php:425
+msgid "Enable/Disable for Footer Top Section"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:46
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:23
+msgid "YM : Footer About"
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:24
+msgid "Footer About widgets. Place it within \"Footer widget Area\""
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:30
+msgid "Welcome To "
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:43
+msgid "Enable/Disable Footer About Section"
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:47
+#: inc/widgets/footer-layout-widgets.php:187
+#: inc/widgets/front-layout-widgets.php:41
+#: inc/widgets/front-layout-widgets.php:189
+#: inc/widgets/front-layout-widgets.php:342
+#: inc/widgets/front-layout-widgets.php:1077
+msgid "Title: "
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:52
+msgid "Description: "
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:57
+msgid "Facebook Url: "
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:63
+msgid "Twitter Url: "
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:69
+msgid "Linkedin Url: "
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:74
+msgid "Pinterest Url: "
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:79
+msgid "Youtube Url: "
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:175
+msgid "Footer Latest News widgets. Place it within \"Footer widget Area\""
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:178
+msgid "YM : Footer Latest News"
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:191
+msgid "Enable/Disable date to show"
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:196
+#: inc/widgets/front-layout-widgets.php:64
+#: inc/widgets/front-layout-widgets.php:214
+#: inc/widgets/front-layout-widgets.php:455
+#: inc/widgets/front-layout-widgets.php:1102
+msgid "Post No: "
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:269
+msgid "YM : Footer Menu"
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:269
+msgid "Footer Menu widgets. Place it within \"Footer widget Area\""
+msgstr ""
+
+#: inc/widgets/footer-layout-widgets.php:279
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:21
+msgid "Yala Mag Block Layout One. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:24
+msgid "YM: News Block Layout 1"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:28
+msgid "Layout 1"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:36
+msgid "Enable/Disable Yala Mag Block Layout 1"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:46
+#: inc/widgets/front-layout-widgets.php:195
+#: inc/widgets/front-layout-widgets.php:1083
+msgid "Select Category:"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:169
+msgid "Yala Mag Block Layout Two. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:172
+msgid "YM: News Block Layout 2"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:176
+#: inc/widgets/front-layout-widgets.php:1064
+msgid "Layout 2"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:184
+#: inc/widgets/front-layout-widgets.php:1072
+msgid "Enable/Disable Yala Mag Block Layout 2"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:318
+msgid "Yala Mag Block Layout Three. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:321
+msgid "YM: Yala Mag Block Layout 3"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:326
+msgid "Layout 3"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:338
+msgid "Enable/Disable Yala Mag Block Layout 3"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:346
+msgid "Category tabs-1:"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:364
+msgid "Category tabs-2:"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:381
+msgid "Category tabs-3:"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:399
+msgid "Category tabs-4"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:418
+msgid "Category tabs-5:"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:437
+msgid "Category tabs-6:"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:551
+#: inc/widgets/front-layout-widgets.php:637
+#: inc/widgets/front-layout-widgets.php:723
+#: inc/widgets/front-layout-widgets.php:809
+#: inc/widgets/front-layout-widgets.php:895
+#: inc/widgets/front-layout-widgets.php:981
+#: inc/widgets/front-layout-widgets.php:1168
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:1055
+msgid "Yala Mag Block Layout Four. Place it within \"Frontpage Layouts Area\""
+msgstr ""
+
+#: inc/widgets/front-layout-widgets.php:1058
+msgid "YM: Yala Mag Block Layout 4"
+msgstr ""
+
+#: sections/section-slider.php:42
+msgid "Read Full News"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:31 template-parts/content-single.php:26
+msgid "Comments"
+msgstr ""
+
+#: template-parts/content.php:40
+msgid "Pages:"
+msgstr ""
+
+#: theme-info/about.php:9 theme-info/about.php:10
+msgid "Yala Mag Setup"
+msgstr ""
+
+#. translators: theme version
+#: theme-info/about.php:13
+#, php-format
+msgid "Welcome to %s - "
+msgstr ""
+
+#. translators: 1: theme name
+#: theme-info/about.php:16
+#, php-format
+msgid ""
+"We hope this page will help you to setup %1$s with few clicks. We believe "
+"you will find it easy to use and perfect for your website development."
+msgstr ""
+
+#: theme-info/about.php:21
+msgid "Theme Details"
+msgstr ""
+
+#: theme-info/about.php:25
+msgid "View Demo"
+msgstr ""
+
+#: theme-info/about.php:29
+msgid "Documentation"
+msgstr ""
+
+#: theme-info/about.php:36
+msgid "Getting Started"
+msgstr ""
+
+#: theme-info/about.php:37 theme-info/about.php:53
+msgid "Recommended Actions"
+msgstr ""
+
+#: theme-info/about.php:38
+msgid "Support"
+msgstr ""
+
+#: theme-info/about.php:44 theme-info/about.php:84
+msgid "Theme Documentation"
+msgstr ""
+
+#: theme-info/about.php:45
+msgid "Find step by step instructions to setup theme easily."
+msgstr ""
+
+#: theme-info/about.php:46
+msgid "Upgrade Yala Mag Pro"
+msgstr ""
+
+#: theme-info/about.php:54
+msgid ""
+"We recommend few steps to take so that you can get complete site like shown "
+"in demo."
+msgstr ""
+
+#: theme-info/about.php:55
+msgid "Check recommended actions"
+msgstr ""
+
+#: theme-info/about.php:62
+msgid "Customize Everything"
+msgstr ""
+
+#: theme-info/about.php:63
+msgid "Start customizing every aspect of the website with customizer."
+msgstr ""
+
+#: theme-info/about.php:64
+msgid "Go to Customizer"
+msgstr ""
+
+#: theme-info/about.php:75 theme-info/about.php:78
+msgid "Contact Support"
+msgstr ""
+
+#: theme-info/about.php:77
+msgid ""
+"If you have any problem, feel free to create ticket on our dedicated support "
+"forum."
+msgstr ""
+
+#: theme-info/about.php:86
+msgid ""
+"Kindly check our theme documentation for detailed information and video "
+"instructions."
+msgstr ""
+
+#: theme-info/about.php:87
+msgid "View Documentation"
+msgstr ""
+
+#: theme-info/about.php:93
+msgid "Customization Request"
+msgstr ""
+
+#: theme-info/about.php:95
+#, php-format
+msgid ""
+"This is 100% free theme and has premium version. Upgrade to pro for extra "
+"freatures and feel free to contact us any time if you need any customization "
+"service."
+msgstr ""
+
+#: theme-info/about.php:96 theme-info/class-about.php:593
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: theme-info/class-about.php:164
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr ""
+
+#: theme-info/class-about.php:164
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: theme-info/class-about.php:551
+msgid "Install"
+msgstr ""
+
+#: theme-info/class-about.php:555
+msgid "Activate"
+msgstr ""
+
+#: theme-info/class-about.php:559
+msgid "Deactivate"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Yala Mag"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://yalathemes.com/themes/yala-mag-free-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Yala Mag WordPress theme is completely magazine and news theme with "
+"different variety of structure and numerous widgets. This responsive theme "
+"is ideal to use for magazine, blog, news entryway and way of life mentors. "
+"It accompanies alternative to change color of whole site, social connects to "
+"associate with long range interpersonal communication destinations and the "
+"sky is the limit from there. Yala Mag theme contains highlight to channel "
+"post by creator and class. Post can be requested by distributed date, "
+"arbitrarily and remarks check. It underpins prominent modules WooCommerce, "
+"Contact Form 7, Easy Digital Download. You can view Demo here: https://"
+"yalathemes.com/yala-mag/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "yalathemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.yalathemes.com/"
+msgstr ""

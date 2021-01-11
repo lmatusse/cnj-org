@@ -1,0 +1,186 @@
+.widget-content .image-preview-wrap {
+    margin: 20px auto;
+}
+
+.widget-content .image-preview-wrap img {
+    max-width: 100%;
+}
+
+.settings-error.is-dismissible{
+    display: block;
+}
+
+
+/*--------------------------------------------------------------
+# Meta
+--------------------------------------------------------------*/
+#suffix-lite-theme-settings .inside {
+    margin: 0 auto;
+    padding: 0;
+}
+
+#suffix-lite-theme-settings .handlediv {
+    position: relative;
+    z-index: 1;
+}
+
+#suffix-lite-theme-settings h2.hndle {
+    background-color: #f3f5f6;
+    border-width: 1px 1px 0 1px;
+    border-style: solid;
+    border-color: #e2e4e7;
+}
+
+#suffix-lite-theme-settings .suffix-lite-meta-panels .suffix-lite-opt-wrap{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+}
+
+.suffix-lite-tab-main {
+    background-color: #fbfbfb;
+    position: relative;
+}
+
+.suffix-lite-tab-main .suffix-lite-metabox-tab {
+    display: block;
+    position: relative;
+    z-index: 10;
+    float: left;
+    width: 225px;
+}
+
+.suffix-lite-metabox-tab ul {
+    clear: left;
+    margin: 0;
+    list-style-type: none;
+}
+
+.suffix-lite-metabox-tab ul li {
+    margin-bottom: 0;
+}
+
+.suffix-lite-metabox-tab ul li a {
+    font-size: 13px;
+    position: relative;
+    display: block;
+    font-weight: 600;
+    padding: 15px;
+    text-decoration: none;
+    color: #333;
+    border-bottom: 1px solid rgba(136, 134, 134, 0.12);
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    -webkit-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.suffix-lite-metabox-tab ul li a:hover,
+.suffix-lite-metabox-tab ul li a:focus {
+    outline: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+}
+
+.suffix-lite-metabox-tab ul li a:hover,
+.suffix-lite-metabox-tab ul li a:focus {
+    color: #fff;
+    background: #3473e4;
+}
+
+.suffix-lite-metabox-tab ul li a.twp-tab-active {
+    color: #fff;
+    background: #3062ff;
+}
+
+.suffix-lite-metabox-tab ul li a.twp-tab-active:after {
+    content: "";
+    position: absolute;
+    right: -1px;
+    top: 50%;
+    height: 0;
+    width: 0;
+    pointer-events: none;
+    border: solid transparent;
+    border-right-color: #fff;
+    border-width: 10px;
+    margin-top: -10px;
+}
+
+.suffix-lite-tab-main .suffix-lite-tab-content {
+    background-color: #fff;
+    position: relative;
+    margin-left: 225px;
+    border-left: 1px solid #ededed;
+    border-right: 1px solid #ededed;
+}
+
+.suffix-lite-tab-content .twp-content-wrap {
+    display: none;
+}
+
+.suffix-lite-tab-content .twp-content-wrap.suffix-lite-tab-content-active {
+    display: block;
+}
+
+.suffix-lite-tab-content .twp-meta-title {
+    border-bottom: 1px solid #e8e8e8;
+    font-weight: 300;
+    padding: 20px;
+    margin: 0 auto;
+    font-size: 32px;
+}
+
+.suffix-lite-meta-panels .suffix-lite-opt-wrap {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.suffix-lite-meta-panels .suffix-lite-opt-wrap:hover,
+.suffix-lite-meta-panels .suffix-lite-opt-wrap:focus {
+    background-color: #f9f9f9;
+}
+
+.suffix-lite-opt-wrap {
+    display: table;
+    width: 100%;
+    height: 100%;
+    padding: 10px 0;
+    margin: 10px auto;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.suffix-lite-opt-wrap-alt label {
+    width: 220px;
+}
+
+.suffix-lite-opt-wrap-alt label,
+.suffix-lite-opt-wrap textarea,
+.suffix-lite-opt-wrap select,
+.suffix-lite-opt-wrap input[type="text"] {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.suffix-lite-opt-wrap textarea,
+.suffix-lite-opt-wrap select,
+.suffix-lite-opt-wrap input[type="text"] {
+    border-color: #E2E6EC;
+    width: 400px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.suffix-lite-opt-wrap input[type="text"],
+.suffix-lite-opt-wrap select {
+    height: 45px;
+    line-height: 45px;
+}
+
+.suffix-lite-opt-wrap textarea {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

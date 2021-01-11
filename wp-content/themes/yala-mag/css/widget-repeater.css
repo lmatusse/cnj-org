@@ -1,0 +1,129 @@
+/*Widgets*/
+.widefat {
+    margin-bottom: 15px;
+}
+.widget-inside small {
+    font-size: 13px;
+    margin-bottom: 10px!important;
+    display: inline-block;
+}
+a.repeater-btn.button {
+    background: #5cb85c!important;
+    height: 34px;
+    line-height: 34px;
+    font-size: 15px;
+    color: #fff;
+    border: 1px solid #5cb85c;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.widget-control-actions {
+    margin: 0 -15px;
+    border-top: 1px solid #e5e5e5;
+    padding: 15px 15px 0 15px;
+}
+.yala-mag-sec {
+    margin: 0 -15px;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 15px;
+    display: inline-block;
+    width: 100%;
+    background: #f5f5f5;
+}
+a.yala-mag-remove.delete {
+    background: #d9534f!important;
+    padding: 7px 10px;
+    color: #fff;
+    border-radius: 3px;
+    float: right;
+    cursor: pointer;
+}
+
+input#remove_media_button { 
+
+    background: #d9534f!important;
+    height: 34px;
+    border-color: #d9534f!important;
+    position: relative;
+    color: #ffffff;
+
+}
+
+input#custom_media_button {
+    background: #0275d8!important;
+    height: 34px;
+    border-color: #0275d8!important;
+    position: relative;
+    color: #ffffff;
+}
+
+
+
+button.button-link.button-link-delete.widget-control-remove {
+    background: red;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+button.button-link.widget-control-close {
+    background: #f0ad4e;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+/*repeater field title*/
+.repeater-table,
+.repeater-field-control{
+    margin: 0 auto 10px;
+}
+.repeater-table.open .at-repeater-action .at-toggle-indicator:before{
+    content: "\f142";
+}
+
+li#customize-control-yala_mag_homepage_slider_oation {
+    background: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 0;
+    border-bottom: 1px solid #eee;
+}
+li#customize-control-yala_mag_slider_oation {
+    margin: auto;
+    background: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+}
+button.button.at-repeater-add-control-field {
+    background: #5cb85c!important;
+    height: 34px;
+    line-height: 34px;
+    font-size: 15px;
+    color: #fff;
+    border: 1px solid #5cb85c;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+a.repeater-field-remove {
+    background: red;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+a.repeater-field-close {
+    background: #f0ad4e;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
